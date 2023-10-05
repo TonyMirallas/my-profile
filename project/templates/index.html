@@ -1,0 +1,123 @@
+<!-- templates/index.html -->
+
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 ">
+      <div class="jumbotron ">
+        <h1 class="display-4 text-center">Welcome to Twitter Scraper</h1>
+        <p class="lead text-center">Scrape a Twitter profile and get some stats</p>
+        <hr class="my-4">
+        <p class="text-center s font-italic">Start Scrapping</p>
+        {% if current_user.is_authenticated %}
+          <div class="col-12 d-flex justify-content-center">
+            <form class=" border border-primary p-3" action="{{url_for('main.scrapping')}}" method="post">
+              <div class="form-group">
+                <label for="link">Link: </label>
+                <input type="text" class="form-control" id="link" placeholder="Enter twitter link" name="link" />
+              </div>
+              <div class="form-group">
+                <label for="days">Days: </label>    
+                <input type="number" id="days" class="form-control" placeholder="Enter number of days" name="days" min="1" max="10">
+              </div>
+              <div class="d-flex justify-content-center">
+                <input type="submit" class="btn bg-dark text-center text-white" id="send-scrapping" name="scrape" value="Scrape" />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+        {% else %}
+
+        <div class="row d-flex justify-content-center">
+          <div class="box">
+              {% with messages = get_flashed_messages() %}
+              {% if messages %}
+                  <div class="text-danger">
+                      {{ messages[0] }}
+                  </div>
+              {% endif %}
+              {% endwith %}
+              <form method="POST" action="/login">
+                  <div class="form-group">
+                    <label for="exampleInputEmail1">Email address</label>
+                    <input type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                  </div>
+                  <div class="form-group">
+                    <label for="exampleInputPassword1">Password</label>
+                    <input type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                  </div>
+                  <p class="text-center">
+                    <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                    <label class="form-check-label" for="exampleCheck1">Remember me</label>
+                  </p>
+                  <p class="text-center">
+                    <button type="submit" class="btn bg-dark text-center text-white btn-lg">Login</button>
+                  </p>
+                </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>        
+        {% endif %}
+  {% if current_user.is_authenticated %}
+
+  <div class="row p-4 text-center">
+    <div class="col-4">
+      {% if stats %}
+      <h4>Some stats</h4>
+      <p>Tweets in the last X days: <strong>{{stats['tweets']}}</strong></p>
+      <p>Retweets in the last X days: <strong>{{stats['total_retweets']}}</strong></p>
+      <p>Average retweets in the last X days (std): <strong>{{stats['average_retweets']}} ({{stats['average_retweets_std']}})</strong></p>
+      <p>Average likes in the last X days (std): <strong>{{stats['average_likes']}} ({{stats['average_likes_std']}})</strong></p>
+      <p>Average tweets in the last X days (std): <strong>{{stats['average_replies']}} ({{stats['average_replies_std']}})</strong></p>
+      {% endif %}
+  
+    </div>
+    <div class="col-4">
+      {% if twitter_user %}
+      <p>User: <a href="">{{twitter_user.name}}</a>  </p>
+      <img class="rounded-circle" src="{{twitter_user.image}}">
+      <p>Followers: <strong>{{twitter_user_info.followers}}</strong> Following: <strong>{{twitter_user_info.following}}</strong></p>
+      <form class="p-3" action="{{url_for('main.following')}}" method="post">
+        <button type="submit" id="follow" class="btn btn-secundary" name="{{following[0]}}" value="{{twitter_user.id}}">{{following[1]}}</button>
+        <small id="emailHelp" class="form-text text-muted">You'll receive an email with updates on this account.</small>
+      </form>
+      {% endif %}
+    </div>
+    <div class="col-4">
+      {% if graphs %}
+      <h4>More popular tweet:</h4>
+      <p>{{graphs[2].text}}</p>
+      <p>Retweets: <strong>{{graphs[2].retweet}}</strong> Likes: <strong>{{graphs[2].like}}</strong></p>
+      {% endif %}
+    </div>
+  </div>
+  
+  {% if graphs %}
+  <div class="row p-2 d-flex justify-content-center">
+    <h4>Some Graphs</h4>
+  </div>
+  <div class="row">
+    <div class="col-4 d-flex justify-content-center">
+      <img src="{{graphs[0]}}" alt="scrapping">
+    </div>
+    <div class="col-4 d-flex justify-content-center">
+      <img src="{{graphs[1]}}" alt="scrapping">
+    </div>
+    <div class="col-4 d-flex justify-content-center">
+      <img src="{{graphs[3]}}" alt="scrapping">
+    </div>
+  </div>
+  {% endif %}
+
+  {% endif %}
+{% endblock %}

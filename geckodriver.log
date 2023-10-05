@@ -1,0 +1,1251 @@
+1676733025048	geckodriver	INFO	Listening on 127.0.0.1:60967
+1676733025559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSsNJaf"
+*** You are running in headless mode.
+1676733026015	Marionette	INFO	Marionette enabled
+1676733026018	Marionette	INFO	Listening on port 44729
+Read port: 44729
+WebDriver BiDi listening on ws://127.0.0.1:55413
+1676733026158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSsNJaf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55413/devtools/browser/570b7aab-bf09-4109-9534-b0540fbc5cc7
+1676733846938	geckodriver	INFO	Listening on 127.0.0.1:33531
+1676733847445	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "38017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevIiQRA"
+*** You are running in headless mode.
+1676733847911	Marionette	INFO	Marionette enabled
+1676733847914	Marionette	INFO	Listening on port 39885
+Read port: 39885
+WebDriver BiDi listening on ws://127.0.0.1:38017
+1676733848003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevIiQRA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38017/devtools/browser/e38b0264-a379-4566-818d-d502e9befac7
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.b5030eda.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.b5030eda.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.b5030eda.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+1676733893032	Marionette	INFO	Stopped listening on port 39885
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1676738408687	geckodriver	INFO	Listening on 127.0.0.1:36021
+1676738409195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePGIFkW"
+*** You are running in headless mode.
+1676738409662	Marionette	INFO	Marionette enabled
+1676738409665	Marionette	INFO	Listening on port 42459
+Read port: 42459
+WebDriver BiDi listening on ws://127.0.0.1:45897
+1676738409758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePGIFkW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45897/devtools/browser/8286157c-75fa-483a-b800-8d53757f489a
+1676738449108	Marionette	INFO	Stopped listening on port 42459
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676820808996	geckodriver	INFO	Listening on 127.0.0.1:35775
+1676820809510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "39359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileql8ud3"
+*** You are running in headless mode.
+1676820809989	Marionette	INFO	Marionette enabled
+1676820809993	Marionette	INFO	Listening on port 44435
+Read port: 44435
+WebDriver BiDi listening on ws://127.0.0.1:39359
+1676820810096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileql8ud3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39359/devtools/browser/e9a68fb8-85c5-442a-9a55-64c16eea01de
+1676820995506	geckodriver	INFO	Listening on 127.0.0.1:44311
+1676820996009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "50987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMAxHnf"
+*** You are running in headless mode.
+1676820996470	Marionette	INFO	Marionette enabled
+1676820996473	Marionette	INFO	Listening on port 41199
+Read port: 41199
+WebDriver BiDi listening on ws://127.0.0.1:50987
+1676820996567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMAxHnf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50987/devtools/browser/cc84dd9a-2842-46af-ab8b-caf4c26d04a3
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1676821035180	Marionette	INFO	Stopped listening on port 41199
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1676993497053	geckodriver	INFO	Listening on 127.0.0.1:50937
+1676993497560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI3RhEX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676993498032	Marionette	INFO	Marionette enabled
+1676993498035	Marionette	INFO	Listening on port 33581
+Read port: 33581
+WebDriver BiDi listening on ws://127.0.0.1:55655
+1676993498136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI3RhEX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55655/devtools/browser/76ff21a0-bea0-48e9-89c6-2db2631fcbb2
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1676993531967	Marionette	INFO	Stopped listening on port 33581
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1677231240490	geckodriver	INFO	Listening on 127.0.0.1:43405
+1677231241004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "54363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2BtPxx"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677231241465	Marionette	INFO	Marionette enabled
+1677231241468	Marionette	INFO	Listening on port 46235
+Read port: 46235
+WebDriver BiDi listening on ws://127.0.0.1:54363
+1677231241567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2BtPxx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54363/devtools/browser/9aff0a20-a227-431a-a79d-c894f723b662
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.b5030eda.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+1677231270671	Marionette	INFO	Stopped listening on port 46235
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1677253964849	geckodriver	INFO	Listening on 127.0.0.1:44859
+1677253965356	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCH85op"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677253965845	Marionette	INFO	Marionette enabled
+1677253965848	Marionette	INFO	Listening on port 45375
+Read port: 45375
+WebDriver BiDi listening on ws://127.0.0.1:34961
+1677253965944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCH85op/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34961/devtools/browser/50e8c3da-aeb8-4d2a-9919-15043ee99ad8
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.b5030eda.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.b5030eda.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+1677253973137	Marionette	INFO	Stopped listening on port 45375
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1677254291790	geckodriver	INFO	Listening on 127.0.0.1:52355
+1677254292297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3v78U2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677254292755	Marionette	INFO	Marionette enabled
+1677254292758	Marionette	INFO	Listening on port 33435
+Read port: 33435
+WebDriver BiDi listening on ws://127.0.0.1:44893
+1677254292873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3v78U2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44893/devtools/browser/df0f99d7-c2b7-42a2-9302-b7eac79205f0
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677254321726	Marionette	INFO	Stopped listening on port 33435
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1677314847399	geckodriver	INFO	Listening on 127.0.0.1:42055
+1677314847915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiAi5kI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677314848384	Marionette	INFO	Marionette enabled
+1677314848387	Marionette	INFO	Listening on port 39777
+Read port: 39777
+WebDriver BiDi listening on ws://127.0.0.1:40861
+1677314848463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiAi5kI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40861/devtools/browser/2153f05e-928b-4bca-ba06-56f73d6cfb52
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677315203940	geckodriver	INFO	Listening on 127.0.0.1:49991
+1677315204444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex4395F"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677315204910	Marionette	INFO	Marionette enabled
+1677315204912	Marionette	INFO	Listening on port 45565
+Read port: 45565
+WebDriver BiDi listening on ws://127.0.0.1:43621
+1677315205004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex4395F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43621/devtools/browser/fb29e87c-3973-480e-84ff-49881f11e6de
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677315233064	Marionette	INFO	Stopped listening on port 45565
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677341495436	geckodriver	INFO	Listening on 127.0.0.1:58815
+1677341495943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5b147r"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677341496397	Marionette	INFO	Marionette enabled
+1677341496400	Marionette	INFO	Listening on port 41573
+Read port: 41573
+WebDriver BiDi listening on ws://127.0.0.1:33733
+1677341496547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5b147r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33733/devtools/browser/9122ca27-1ef1-45f9-9b1c-251f53218df6
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.74afdc8a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677341525238	Marionette	INFO	Stopped listening on port 41573
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1677341653009	geckodriver	INFO	Listening on 127.0.0.1:46331
+1677341653515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "54089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehlVMbt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677341653976	Marionette	INFO	Marionette enabled
+1677341653979	Marionette	INFO	Listening on port 37567
+Read port: 37567
+WebDriver BiDi listening on ws://127.0.0.1:54089
+1677341654104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehlVMbt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54089/devtools/browser/ef91a2ca-1458-4efa-97c1-f16b6632d6ba
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.b5030eda.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+1677341683696	Marionette	INFO	Stopped listening on port 37567
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1677341820864	geckodriver	INFO	Listening on 127.0.0.1:42105
+1677341821366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesCrSIP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677341821823	Marionette	INFO	Marionette enabled
+1677341821826	Marionette	INFO	Listening on port 34655
+Read port: 34655
+WebDriver BiDi listening on ws://127.0.0.1:40699
+1677341821951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesCrSIP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40699/devtools/browser/9fd5553b-ea86-4eb9-965d-7c7d19bfc81c
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677341850635	Marionette	INFO	Stopped listening on port 34655
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1677863973443	geckodriver	INFO	Listening on 127.0.0.1:52183
+1677863973957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "60835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileANq39N"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677863974426	Marionette	INFO	Marionette enabled
+1677863974429	Marionette	INFO	Listening on port 35703
+Read port: 35703
+WebDriver BiDi listening on ws://127.0.0.1:60835
+1677863974509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileANq39N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60835/devtools/browser/d67b25fb-26fe-41b7-8fc6-b6f5e2df12b2
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677863999741	geckodriver	INFO	Listening on 127.0.0.1:53167
+1677864000244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexoiGOV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677864000712	Marionette	INFO	Marionette enabled
+1677864000715	Marionette	INFO	Listening on port 42559
+Read port: 42559
+WebDriver BiDi listening on ws://127.0.0.1:52597
+1677864000812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexoiGOV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52597/devtools/browser/66c6fe29-4c68-4794-8d9c-4428f9593fe4
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677864066552	geckodriver	INFO	Listening on 127.0.0.1:38697
+1677864067059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "58975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefoRKiF"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677864067504	Marionette	INFO	Marionette enabled
+1677864067507	Marionette	INFO	Listening on port 39997
+Read port: 39997
+WebDriver BiDi listening on ws://127.0.0.1:58975
+1677864067644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefoRKiF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58975/devtools/browser/76233e74-5a73-476f-b022-c851fc3a867b
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677864102062	Marionette	INFO	Stopped listening on port 39997
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1677918876842	geckodriver	INFO	Listening on 127.0.0.1:57605
+1677918876846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAlaLDU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677918877284	Marionette	INFO	Marionette enabled
+1677918877287	Marionette	INFO	Listening on port 41577
+Read port: 41577
+WebDriver BiDi listening on ws://127.0.0.1:51975
+1677918877405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAlaLDU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51975/devtools/browser/5b88bccd-e4c3-4883-a841-02deaf65d913
+1677918971381	geckodriver	INFO	Listening on 127.0.0.1:60189
+1677918971384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHZ9OPr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677918971810	Marionette	INFO	Marionette enabled
+1677918971813	Marionette	INFO	Listening on port 33353
+WebDriver BiDi listening on ws://127.0.0.1:52911
+Read port: 33353
+1677918972004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHZ9OPr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52911/devtools/browser/4b6119eb-1fb4-45f6-a7fd-7377f0131dda
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi.175e521a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi.175e521a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi.175e521a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi.175e521a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk loader.LoggedOutNotifications failed.
+(error: https://abs.twimg.com/responsive-web/client-web/loader.LoggedOutNotifications.df1f226a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.74afdc8a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~loader.AudioDock~loader.AppModules~loader.DMDrawer~bundle.AboutThisAd~bundle.NotMyAccount~bundle.Multi.175e521a.js)
+1677919253561	geckodriver	INFO	Listening on 127.0.0.1:34257
+1677919254069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8BK66n"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677919254575	Marionette	INFO	Marionette enabled
+1677919254580	Marionette	INFO	Listening on port 42173
+WebDriver BiDi listening on ws://127.0.0.1:44385
+Read port: 42173
+1677919254868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8BK66n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44385/devtools/browser/883cd2ac-8892-4b77-bff8-3095d5f07f98
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677919288841	geckodriver	INFO	Listening on 127.0.0.1:59177
+1677919289349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2bTd1d"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677919289801	Marionette	INFO	Marionette enabled
+1677919289804	Marionette	INFO	Listening on port 39279
+Read port: 39279
+WebDriver BiDi listening on ws://127.0.0.1:53545
+1677919289942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2bTd1d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53545/devtools/browser/9b30a619-d343-440d-b361-9bbeb1c3af5a
+1677919774702	geckodriver	INFO	Listening on 127.0.0.1:33733
+1677919774705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCfidJP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677919775178	Marionette	INFO	Marionette enabled
+1677919775181	Marionette	INFO	Listening on port 46741
+Read port: 46741
+WebDriver BiDi listening on ws://127.0.0.1:53871
+1677919775283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCfidJP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53871/devtools/browser/3be643bf-0a6b-49a3-bf0e-3726d07517de
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677920511101	geckodriver	INFO	Listening on 127.0.0.1:50279
+1677920511609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "37703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyh9tlb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677920512075	Marionette	INFO	Marionette enabled
+1677920512078	Marionette	INFO	Listening on port 33033
+Read port: 33033
+WebDriver BiDi listening on ws://127.0.0.1:37703
+1677920512179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyh9tlb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37703/devtools/browser/0cb5e5e7-e504-4de2-b51b-cdc34d14971f
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677921294249	geckodriver	INFO	Listening on 127.0.0.1:47715
+1677921294757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "32795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1R0N09"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677921295222	Marionette	INFO	Marionette enabled
+1677921295225	Marionette	INFO	Listening on port 46043
+Read port: 46043
+WebDriver BiDi listening on ws://127.0.0.1:32795
+1677921295313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1R0N09/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:32795/devtools/browser/c7622d8d-ecba-46f8-adb1-128db69c1c26
+1677921326737	geckodriver	INFO	Listening on 127.0.0.1:41257
+1677921327240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZKTw2P"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677921327740	Marionette	INFO	Marionette enabled
+1677921327743	Marionette	INFO	Listening on port 45343
+WebDriver BiDi listening on ws://127.0.0.1:51081
+Read port: 45343
+1677921328067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZKTw2P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51081/devtools/browser/af5b1540-93ed-44e8-85b8-652a2d1b9f56
+1677921771451	geckodriver	INFO	Listening on 127.0.0.1:60387
+1677921771454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "56937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexN1dhM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677921771914	Marionette	INFO	Marionette enabled
+1677921771916	Marionette	INFO	Listening on port 34113
+Read port: 34113
+WebDriver BiDi listening on ws://127.0.0.1:56937
+1677921772021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexN1dhM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56937/devtools/browser/82ac53da-1441-4ce6-91e9-d799cb92f520
+1677921804086	geckodriver	INFO	Listening on 127.0.0.1:32941
+1677921804088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "38483" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeCIOik"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677921804551	Marionette	INFO	Marionette enabled
+1677921804554	Marionette	INFO	Listening on port 45771
+Read port: 45771
+WebDriver BiDi listening on ws://127.0.0.1:38483
+1677921804648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeCIOik/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38483/devtools/browser/6a818c2c-e728-4000-85b2-19b36d3d87f1
+1677922269429	geckodriver	INFO	Listening on 127.0.0.1:49169
+1677922269937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "48173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGL50eN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677922270391	Marionette	INFO	Marionette enabled
+1677922270394	Marionette	INFO	Listening on port 43965
+Read port: 43965
+WebDriver BiDi listening on ws://127.0.0.1:48173
+1677922270516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGL50eN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48173/devtools/browser/ec0d2b02-ba3b-4b7e-992a-32470efd4fe6
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677922538028	geckodriver	INFO	Listening on 127.0.0.1:33747
+1677922538032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSvm3lY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677922538490	Marionette	INFO	Marionette enabled
+1677922538493	Marionette	INFO	Listening on port 45123
+Read port: 45123
+WebDriver BiDi listening on ws://127.0.0.1:45039
+1677922538614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSvm3lY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45039/devtools/browser/986e04f2-1770-4cb9-b6ae-9e1d0d9550d4
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677923561100	geckodriver	INFO	Listening on 127.0.0.1:54335
+1677923561102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "41529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9v5XB0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677923561552	Marionette	INFO	Marionette enabled
+1677923561554	Marionette	INFO	Listening on port 36509
+Read port: 36509
+WebDriver BiDi listening on ws://127.0.0.1:41529
+1677923561683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9v5XB0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41529/devtools/browser/cf8b0fd5-0e1a-407d-a218-8f6a332c936b
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677923652539	geckodriver	INFO	Listening on 127.0.0.1:44591
+1677923653047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "48153" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3gN04n"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677923653516	Marionette	INFO	Marionette enabled
+1677923653518	Marionette	INFO	Listening on port 40789
+Read port: 40789
+WebDriver BiDi listening on ws://127.0.0.1:48153
+1677923653613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3gN04n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48153/devtools/browser/538ef21c-9fe9-42bc-a613-0151700c690b
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1677943075090	geckodriver	INFO	Listening on 127.0.0.1:51651
+1677943075093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "36939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilew9ZW0G"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677943075532	Marionette	INFO	Marionette enabled
+1677943075535	Marionette	INFO	Listening on port 45491
+Read port: 45491
+WebDriver BiDi listening on ws://127.0.0.1:36939
+1677943075675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew9ZW0G/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36939/devtools/browser/818d6aad-1c35-4d16-9f9a-b1b7ca08a799
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677943372323	geckodriver	INFO	Listening on 127.0.0.1:59301
+1677943372326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilell3gVh"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677943372786	Marionette	INFO	Marionette enabled
+1677943372789	Marionette	INFO	Listening on port 45861
+Read port: 45861
+WebDriver BiDi listening on ws://127.0.0.1:45159
+1677943372900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilell3gVh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45159/devtools/browser/4bce2b8d-4140-4d79-a345-57d8068ffc69
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.a2df01da.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+1677945908359	geckodriver	INFO	Listening on 127.0.0.1:38667
+1677945908362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegqOH4N"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677945908820	Marionette	INFO	Marionette enabled
+1677945908823	Marionette	INFO	Listening on port 37147
+Read port: 37147
+WebDriver BiDi listening on ws://127.0.0.1:44059
+1677945908918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegqOH4N/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44059/devtools/browser/625c197c-1d02-4c8f-af7c-b2ff0188c175
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677946383383	geckodriver	INFO	Listening on 127.0.0.1:32899
+1677946383386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "52109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOb00c3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677946383838	Marionette	INFO	Marionette enabled
+1677946383841	Marionette	INFO	Listening on port 34709
+Read port: 34709
+WebDriver BiDi listening on ws://127.0.0.1:52109
+1677946383947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOb00c3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52109/devtools/browser/5752050c-d189-435d-9a68-84877d6e4dfd
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677946999993	geckodriver	INFO	Listening on 127.0.0.1:43081
+1677946999996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "39671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilew1Id9P"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677947000445	Marionette	INFO	Marionette enabled
+1677947000448	Marionette	INFO	Listening on port 33027
+Read port: 33027
+WebDriver BiDi listening on ws://127.0.0.1:39671
+1677947000587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew1Id9P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39671/devtools/browser/3fe995d1-3d36-4619-abc4-252283b93769
+1677947067615	geckodriver	INFO	Listening on 127.0.0.1:36689
+1677947068123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE3g5Uw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677947068589	Marionette	INFO	Marionette enabled
+1677947068592	Marionette	INFO	Listening on port 40809
+Read port: 40809
+WebDriver BiDi listening on ws://127.0.0.1:34833
+1677947068702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE3g5Uw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34833/devtools/browser/416e5227-98bc-4c2c-9760-89c99f680fee
+1677947434592	geckodriver	INFO	Listening on 127.0.0.1:58053
+1677947434596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHCHKTU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677947435048	Marionette	INFO	Marionette enabled
+1677947435051	Marionette	INFO	Listening on port 33435
+Read port: 33435
+WebDriver BiDi listening on ws://127.0.0.1:35665
+1677947435194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHCHKTU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35665/devtools/browser/9c175446-655a-40b1-9106-2387f4ae4d41
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.74afdc8a.js)
+1677947531797	geckodriver	INFO	Listening on 127.0.0.1:59441
+1677947531800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "59777" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevPnA1H"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677947532250	Marionette	INFO	Marionette enabled
+1677947532253	Marionette	INFO	Listening on port 33413
+Read port: 33413
+WebDriver BiDi listening on ws://127.0.0.1:59777
+1677947532400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevPnA1H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59777/devtools/browser/720d8648-c47b-4684-a0e9-566fc79e2a06
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.a2df01da.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+1677948210824	geckodriver	INFO	Listening on 127.0.0.1:59055
+1677948210827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejpqhQp"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677948211284	Marionette	INFO	Marionette enabled
+1677948211287	Marionette	INFO	Listening on port 42425
+Read port: 42425
+WebDriver BiDi listening on ws://127.0.0.1:40417
+1677948211376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejpqhQp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40417/devtools/browser/11bfdf79-8f8f-48f8-b763-ef70b32c46a2
+1677948614984	geckodriver	INFO	Listening on 127.0.0.1:44989
+1677948614987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNNHIGq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677948615481	Marionette	INFO	Marionette enabled
+1677948615486	Marionette	INFO	Listening on port 33597
+Read port: 33597
+WebDriver BiDi listening on ws://127.0.0.1:35031
+1677948615590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNNHIGq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35031/devtools/browser/128757d2-f890-48b7-9b23-90644f176a9d
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677949221960	geckodriver	INFO	Listening on 127.0.0.1:55085
+1677949221963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelWANpb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677949222430	Marionette	INFO	Marionette enabled
+1677949222433	Marionette	INFO	Listening on port 40825
+Read port: 40825
+WebDriver BiDi listening on ws://127.0.0.1:33025
+1677949222561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelWANpb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33025/devtools/browser/d5685e83-cbe1-438f-a442-bc2dc9b34c11
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1677949346673	geckodriver	INFO	Listening on 127.0.0.1:45785
+1677949346676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1Xwq2U"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677949347127	Marionette	INFO	Marionette enabled
+1677949347134	Marionette	INFO	Listening on port 33733
+Read port: 33733
+WebDriver BiDi listening on ws://127.0.0.1:53473
+1677949347252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1Xwq2U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53473/devtools/browser/e3ca5bce-164b-4137-820e-792dc9ac396d
+1678008609178	geckodriver	INFO	Listening on 127.0.0.1:43563
+1678008609181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "57887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMX8Q8p"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678008609653	Marionette	INFO	Marionette enabled
+1678008609657	Marionette	INFO	Listening on port 46325
+Read port: 46325
+WebDriver BiDi listening on ws://127.0.0.1:57887
+1678008609765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMX8Q8p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57887/devtools/browser/573514e4-c0b0-4470-a934-509f3cb23fb0
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.a2df01da.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.a2df01da.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+1678008642833	Marionette	INFO	Stopped listening on port 46325
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1678010180313	geckodriver	INFO	Listening on 127.0.0.1:46473
+1678010180317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyiLx2H"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678010180812	Marionette	INFO	Marionette enabled
+1678010180815	Marionette	INFO	Listening on port 38105
+Read port: 38105
+WebDriver BiDi listening on ws://127.0.0.1:42423
+1678010180933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyiLx2H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42423/devtools/browser/119c0315-989e-4daf-85af-a84bedc889ae
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.a2df01da.js, line 1: Error: ApiError: https://api.twitter.com/1.1/jot/ces/p2 HTTP-0 codes:[1004] trace_ids:[null]
+1678010210861	Marionette	INFO	Stopped listening on port 38105
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1678027263671	geckodriver	INFO	Listening on 127.0.0.1:59133
+1678027263674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9gluGK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678027264116	Marionette	INFO	Marionette enabled
+1678027264118	Marionette	INFO	Listening on port 39727
+Read port: 39727
+WebDriver BiDi listening on ws://127.0.0.1:42415
+1678027264259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9gluGK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42415/devtools/browser/ae7c19da-1f27-406e-ba89-6aa49bf61339
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.74afdc8a.js)
+1678027293651	Marionette	INFO	Stopped listening on port 39727
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1678027689597	geckodriver	INFO	Listening on 127.0.0.1:59769
+1678027690105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileohwRsu"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678027690573	Marionette	INFO	Marionette enabled
+1678027690576	Marionette	INFO	Listening on port 42629
+Read port: 42629
+WebDriver BiDi listening on ws://127.0.0.1:40359
+1678027690665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileohwRsu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40359/devtools/browser/93e683af-7924-434b-b34c-eb8671368387
+1678027725591	Marionette	INFO	Stopped listening on port 42629
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1678027842091	geckodriver	INFO	Listening on 127.0.0.1:55391
+1678027842599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "54125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJACH7D"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678027843058	Marionette	INFO	Marionette enabled
+1678027843061	Marionette	INFO	Listening on port 38681
+Read port: 38681
+WebDriver BiDi listening on ws://127.0.0.1:54125
+1678027843170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJACH7D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54125/devtools/browser/8d5eb22f-56c3-4e9e-9ea8-998a2cb6640c
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678027878549	Marionette	INFO	Stopped listening on port 38681
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1678098832172	geckodriver	INFO	Listening on 127.0.0.1:59351
+1678098832175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7eAMSg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678098832622	Marionette	INFO	Marionette enabled
+1678098832625	Marionette	INFO	Listening on port 34645
+Read port: 34645
+WebDriver BiDi listening on ws://127.0.0.1:42883
+1678098832769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7eAMSg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42883/devtools/browser/80fa8f0b-1d53-442f-b678-e36cde2b57dc
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678098861711	Marionette	INFO	Stopped listening on port 34645
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1678099209900	geckodriver	INFO	Listening on 127.0.0.1:33745
+1678099209903	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "50297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaJ439y"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678099210361	Marionette	INFO	Marionette enabled
+1678099210363	Marionette	INFO	Listening on port 39023
+Read port: 39023
+WebDriver BiDi listening on ws://127.0.0.1:50297
+1678099210505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaJ439y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50297/devtools/browser/80615da8-f8c9-4849-935b-7d43146a7776
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678099239614	Marionette	INFO	Stopped listening on port 39023
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.604c5ada.js, line 74: TypeError: can't access dead object
+1678176591645	geckodriver	INFO	Listening on 127.0.0.1:49469
+1678176591649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegI7Jkm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678176592114	Marionette	INFO	Marionette enabled
+1678176592117	Marionette	INFO	Listening on port 37079
+Read port: 37079
+WebDriver BiDi listening on ws://127.0.0.1:53521
+1678176592211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegI7Jkm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53521/devtools/browser/4bc7e953-5b4d-4acd-8373-67c04fb3bb10
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678176620274	Marionette	INFO	Stopped listening on port 37079
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+1678177220968	geckodriver	INFO	Listening on 127.0.0.1:48851
+1678177220972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile63dh41"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678177221428	Marionette	INFO	Marionette enabled
+1678177221431	Marionette	INFO	Listening on port 39273
+Read port: 39273
+WebDriver BiDi listening on ws://127.0.0.1:55385
+1678177221552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile63dh41/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55385/devtools/browser/5225df28-20be-4a54-8f9d-372748760f0f
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678177388057	geckodriver	INFO	Listening on 127.0.0.1:43761
+1678177388060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "58611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXpUGu5"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678177388517	Marionette	INFO	Marionette enabled
+1678177388519	Marionette	INFO	Listening on port 38597
+Read port: 38597
+WebDriver BiDi listening on ws://127.0.0.1:58611
+1678177388633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXpUGu5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58611/devtools/browser/d33fbadd-1987-490e-acfe-aa178d7392e6
+1678178051718	geckodriver	INFO	Listening on 127.0.0.1:52385
+1678178051721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "48057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGNmPz9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678178052195	Marionette	INFO	Marionette enabled
+1678178052198	Marionette	INFO	Listening on port 43751
+Read port: 43751
+WebDriver BiDi listening on ws://127.0.0.1:48057
+1678178052304	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGNmPz9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48057/devtools/browser/2a67dfbe-6172-439f-b359-93e5cb1c7b7f
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678179032367	geckodriver	INFO	Listening on 127.0.0.1:39383
+1678179032370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGzLBLN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678179032856	Marionette	INFO	Marionette enabled
+1678179032859	Marionette	INFO	Listening on port 46465
+Read port: 46465
+WebDriver BiDi listening on ws://127.0.0.1:47793
+1678179032977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGzLBLN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47793/devtools/browser/e65f9c0b-fb1b-4442-ae80-05e65e33661d
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678179880866	geckodriver	INFO	Listening on 127.0.0.1:48857
+1678179880869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "36369" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaRa3IG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678179881325	Marionette	INFO	Marionette enabled
+1678179881330	Marionette	INFO	Listening on port 40477
+Read port: 40477
+WebDriver BiDi listening on ws://127.0.0.1:36369
+1678179881455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaRa3IG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36369/devtools/browser/ec573c56-3c5b-4d03-a9fe-e6586facadb3
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678179924662	Marionette	INFO	Stopped listening on port 40477
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+1678180018549	geckodriver	INFO	Listening on 127.0.0.1:37745
+1678180018553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7AdXUi"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678180019019	Marionette	INFO	Marionette enabled
+1678180019022	Marionette	INFO	Listening on port 43415
+Read port: 43415
+WebDriver BiDi listening on ws://127.0.0.1:42015
+1678180019117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7AdXUi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42015/devtools/browser/d3d217a7-23a0-400a-a7cf-fb7e14a2bcce
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678180216965	geckodriver	INFO	Listening on 127.0.0.1:34111
+1678180216969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "56587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehBfk4O"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678180217453	Marionette	INFO	Marionette enabled
+1678180217456	Marionette	INFO	Listening on port 44089
+Read port: 44089
+WebDriver BiDi listening on ws://127.0.0.1:56587
+1678180217542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehBfk4O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56587/devtools/browser/acae2051-c1a7-4255-903b-134b3defee03
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678180360337	geckodriver	INFO	Listening on 127.0.0.1:54183
+1678180360340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileafREkk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678180360810	Marionette	INFO	Marionette enabled
+1678180360812	Marionette	INFO	Listening on port 43323
+Read port: 43323
+WebDriver BiDi listening on ws://127.0.0.1:34151
+1678180360917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileafREkk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34151/devtools/browser/5942bf0c-8199-4f4e-8791-be3ebf090792
+1678181561092	geckodriver	INFO	Listening on 127.0.0.1:59423
+1678181561095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35639" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePZ6KNe"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678181561544	Marionette	INFO	Marionette enabled
+1678181561547	Marionette	INFO	Listening on port 35787
+Read port: 35787
+WebDriver BiDi listening on ws://127.0.0.1:35639
+1678181561674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePZ6KNe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35639/devtools/browser/0942fb87-afe9-403c-ac28-5de86aa287d1
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.74afdc8a.js)
+1678181808022	geckodriver	INFO	Listening on 127.0.0.1:45801
+1678181808025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevXWrbc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678181808488	Marionette	INFO	Marionette enabled
+1678181808491	Marionette	INFO	Listening on port 43483
+Read port: 43483
+WebDriver BiDi listening on ws://127.0.0.1:49891
+1678181808575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevXWrbc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49891/devtools/browser/fe37367f-d199-44b0-bc45-858b8ee80c36
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678181815231	Marionette	INFO	Stopped listening on port 43483
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+1678182959761	geckodriver	INFO	Listening on 127.0.0.1:52151
+1678182959764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "50611" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA0RAFR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678182960250	Marionette	INFO	Marionette enabled
+1678182960253	Marionette	INFO	Listening on port 37091
+Read port: 37091
+WebDriver BiDi listening on ws://127.0.0.1:50611
+1678182960336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA0RAFR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50611/devtools/browser/2b86d446-1d80-4e5b-81fd-441d8e8ef38f
+1678182972971	Marionette	INFO	Stopped listening on port 37091
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+1678183421825	geckodriver	INFO	Listening on 127.0.0.1:55987
+1678183421828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWIz5uM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678183422278	Marionette	INFO	Marionette enabled
+1678183422281	Marionette	INFO	Listening on port 36593
+Read port: 36593
+WebDriver BiDi listening on ws://127.0.0.1:44897
+1678183422419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWIz5uM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44897/devtools/browser/5b1f6569-09cc-4c71-990c-8679c4c3697e
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.74afdc8a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678183429246	Marionette	INFO	Stopped listening on port 36593
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+1678266397025	geckodriver	INFO	Listening on 127.0.0.1:33631
+1678266397028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "41067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVJisID"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678266397491	Marionette	INFO	Marionette enabled
+1678266397494	Marionette	INFO	Listening on port 40293
+Read port: 40293
+WebDriver BiDi listening on ws://127.0.0.1:41067
+1678266397577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVJisID/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41067/devtools/browser/2c418021-2bc1-4d7b-8ec3-2fc6bd2d8317
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678266404366	Marionette	INFO	Stopped listening on port 40293
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+1678268577462	geckodriver	INFO	Listening on 127.0.0.1:52935
+1678268577465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51073" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebYInKN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678268577918	Marionette	INFO	Marionette enabled
+1678268577921	Marionette	INFO	Listening on port 33197
+Read port: 33197
+WebDriver BiDi listening on ws://127.0.0.1:51073
+1678268578040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebYInKN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51073/devtools/browser/04d3b3ca-2d5d-485f-8937-ed7b66e7cb61
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678268595233	Marionette	INFO	Stopped listening on port 33197
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1678350729705	geckodriver	INFO	Listening on 127.0.0.1:56379
+1678350729709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "34059" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF8Edtw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678350730163	Marionette	INFO	Marionette enabled
+1678350730167	Marionette	INFO	Listening on port 34047
+Read port: 34047
+WebDriver BiDi listening on ws://127.0.0.1:34059
+1678350730263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF8Edtw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34059/devtools/browser/12729c94-fefe-4fd5-ab62-3c735c439c35
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.74afdc8a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678353382737	geckodriver	INFO	Listening on 127.0.0.1:53561
+1678353382740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGCdCkY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678353383194	Marionette	INFO	Marionette enabled
+1678353383197	Marionette	INFO	Listening on port 32865
+Read port: 32865
+WebDriver BiDi listening on ws://127.0.0.1:51479
+1678353383321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGCdCkY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51479/devtools/browser/942435ff-46ab-4d16-b0cd-00329cf0938e
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678609963138	geckodriver	INFO	Listening on 127.0.0.1:56805
+1678609963141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43629" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBzug7X"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678609963594	Marionette	INFO	Marionette enabled
+1678609963598	Marionette	INFO	Listening on port 34431
+Read port: 34431
+WebDriver BiDi listening on ws://127.0.0.1:43629
+1678609963706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBzug7X/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43629/devtools/browser/a7a840d3-7ce5-4420-a3b4-99d4a0435b7b
+1678610027351	Marionette	INFO	Stopped listening on port 34431
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+1678610740263	geckodriver	INFO	Listening on 127.0.0.1:41433
+1678610740771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "56561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexUUNLj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678610741249	Marionette	INFO	Marionette enabled
+1678610741252	Marionette	INFO	Listening on port 41899
+Read port: 41899
+WebDriver BiDi listening on ws://127.0.0.1:56561
+1678610741339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexUUNLj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56561/devtools/browser/de7f707b-5cee-40e5-acff-806100a34f12
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.74afdc8a.js)
+1678610751429	Marionette	INFO	Stopped listening on port 41899
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+1678829775102	geckodriver	INFO	Listening on 127.0.0.1:59079
+1678829775105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejW6e3u"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678829775568	Marionette	INFO	Marionette enabled
+1678829775571	Marionette	INFO	Listening on port 32969
+Read port: 32969
+WebDriver BiDi listening on ws://127.0.0.1:49975
+1678829775672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejW6e3u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49975/devtools/browser/2df88a80-475e-448f-9d15-7893b6899932
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.28fc48ca.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/main.28fc48ca.js, line 1: Error: ApiError: https://api.twitter.com/1.1/onboarding/sso_init.json HTTP-0 codes:[1004] trace_ids:[null]
+1678829844761	geckodriver	INFO	Listening on 127.0.0.1:50181
+1678829845269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "35425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef94tzC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678829845739	Marionette	INFO	Marionette enabled
+1678829845742	Marionette	INFO	Listening on port 39283
+Read port: 39283
+WebDriver BiDi listening on ws://127.0.0.1:35425
+1678829845829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef94tzC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35425/devtools/browser/f35a8756-2b20-48c5-ad4e-43ecfbc4b41f
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1678829873103	Marionette	INFO	Stopped listening on port 39283
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.6542017a.js, line 74: TypeError: can't access dead object
+1679003615918	geckodriver	INFO	Listening on 127.0.0.1:34521
+1679003615921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "60105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile42NEib"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679003616373	Marionette	INFO	Marionette enabled
+1679003616376	Marionette	INFO	Listening on port 36459
+Read port: 36459
+WebDriver BiDi listening on ws://127.0.0.1:60105
+1679003616498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile42NEib/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60105/devtools/browser/ec98c933-1f2d-4f45-b9cc-69c5706d85f9
+1679003647881	Marionette	INFO	Stopped listening on port 36459
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.3a0e728a.js, line 74: TypeError: can't access dead object
+1679003866959	geckodriver	INFO	Listening on 127.0.0.1:46575
+1679003867462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "50111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegrjA5K"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679003867909	Marionette	INFO	Marionette enabled
+1679003867911	Marionette	INFO	Listening on port 44863
+Read port: 44863
+WebDriver BiDi listening on ws://127.0.0.1:50111
+1679003868021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegrjA5K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50111/devtools/browser/7ec3a05b-de25-4e42-8b26-9d8dc8804594
+1679003874721	Marionette	INFO	Stopped listening on port 44863
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.3a0e728a.js, line 74: TypeError: can't access dead object
+1679156698912	geckodriver	INFO	Listening on 127.0.0.1:56485
+1679156698916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile35GSdt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1679156699369	Marionette	INFO	Marionette enabled
+1679156699374	Marionette	INFO	Listening on port 44085
+Read port: 44085
+WebDriver BiDi listening on ws://127.0.0.1:40753
+1679156699505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile35GSdt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40753/devtools/browser/76574db0-acd4-4783-a3ae-3c70551617ea
+JavaScript error: https://twitter.com/Zequiodzilla, line 155: ChunkLoadError: Loading chunk ondemand.BranchSdk failed.
+(error: https://abs.twimg.com/responsive-web/client-web/ondemand.BranchSdk.f8286b1a.js)
+1679156722193	Marionette	INFO	Stopped listening on port 44085
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.3a0e728a.js, line 74: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo

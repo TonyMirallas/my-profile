@@ -1,0 +1,83 @@
+<!-- templates/profile.html -->
+
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row d-flex justify-content-center">
+  <h3 class="title">
+    Welcome {{ name }}, introduce a twitter link and the number of days to scrape
+  </h3>
+</div>
+
+<div class="row">
+  <div class="col-12 d-flex justify-content-center">
+    <form class=" border border-primary p-3" action="" method="post">
+      <div class="form-group">
+        <label for="link">Link: </label>
+        <input type="text" class="form-control" id="link" placeholder="Enter twitter link" name="link" />
+      </div>
+      <div class="form-group">
+        <label for="days">Days: </label>    
+        <input type="number" id="days" class="form-control" placeholder="Enter number of days" name="days" min="1" max="10">
+      </div>
+      <div class="d-flex justify-content-center">
+        <input type="submit" class="btn bg-dark text-center text-white" id="send-scrapping" name="scrape" value="Scrape" />
+      </div>
+    </form>
+  </div>
+</div>
+
+<div class="row p-4 text-center">
+  <div class="col-4">
+    {% if stats %}
+    <h4>Some stats</h4>
+    <p>Tweets in the last X days: <strong>{{stats['tweets']}}</strong></p>
+    <p>Retweets in the last X days: <strong>{{stats['total_retweets']}}</strong></p>
+    <p>Average retweets in the last X days (std): <strong>{{stats['average_retweets']}} ({{stats['average_retweets_std']}})</strong></p>
+    <p>Average likes in the last X days (std): <strong>{{stats['average_likes']}} ({{stats['average_likes_std']}})</strong></p>
+    <p>Average tweets in the last X days (std): <strong>{{stats['average_replies']}} ({{stats['average_replies_std']}})</strong></p>
+    {% else %}    
+    <p>There are no stats to show</p>
+    {% endif %}
+
+  </div>
+  <div class="col-4">
+    {% if twitter_user %}
+    <p>User: <a href="">{{twitter_user.name}}</a>  </p>
+    <img class="rounded-circle" src="{{twitter_user.image}}">
+    <p>Followers: <strong>{{twitter_user_info.followers}}</strong> Following: <strong>{{twitter_user_info.following}}</strong></p>
+    <form class=" border border-primary p-3" action="{{url_for('main.following')}}" method="post">
+      <button type="submit" id="follow" class="btn btn-primary" name="{{following[0]}}" value="{{twitter_user.id}}">{{following[1]}}</button>
+      <small id="emailHelp" class="form-text text-muted">You'll receive an email with updates on this account.</small>
+    </form>
+    {% else %}
+    <p>There are no user to show</p>
+    {% endif %}
+  </div>
+  <div class="col-4">
+    {% if graphs %}
+    <h4>More popular tweet:</h4>
+    <p>{{graphs[2].text}}</p>
+    <p>Retweets: <strong>{{graphs[2].retweet}}</strong> Likes: <strong>{{graphs[2].like}}</strong></p>
+    {% endif %}
+  </div>
+</div>
+
+{% if graphs %}
+<div class="row p-2 d-flex justify-content-center">
+  <h4>Some Graphs</h4>
+</div>
+<div class="row">
+  <div class="col-4 d-flex justify-content-center">
+    <img src="{{graphs[0]}}" alt="scrapping">
+  </div>
+  <div class="col-4 d-flex justify-content-center">
+    <img src="{{graphs[1]}}" alt="scrapping">
+  </div>
+  <div class="col-4 d-flex justify-content-center">
+    <img src="{{graphs[3]}}" alt="scrapping">
+  </div>
+</div>
+{% endif %}
+
+{% endblock %}

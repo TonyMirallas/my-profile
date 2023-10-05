@@ -1,0 +1,61 @@
+<!-- templates/profile.html -->
+
+{% extends "base.html" %}
+
+{% block content %}
+
+    {% if twitter_users %}
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="jumbotron text-center">
+                <h1 class="">Following</h1>
+                <p class="lead">Profiles I follow</p>
+              </div>
+            </div>
+          </div>      
+            <div class="row">
+                {% for twitter_user in twitter_users %}
+                <div class="card col-sm-4">
+                  <div class="row">
+                    <div class="card-body text-center">
+                      <h5 class="card-title">{{twitter_user.name}}</h5>
+                    </div>  
+                  </div>
+                    <div class="row d-flex justify-content-center">
+                        <img class="rounded-circle" style="width: 200px;" src="{{twitter_user.image}}" alt="Card image cap">
+                    </div>
+                    <div class="row d-flex justify-content-center text-center p-2" style="height:100px;">
+                      <p class="card-text">{{twitter_user.twitter_user_infos[0].biography}}</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item p-0 pt-2">
+                        <div class="row">
+                          <div class="col-6 text-right">
+                            <p class="badge badge-pill badge-secondary" style="font-size: 17px;">Followers: {{twitter_user.twitter_user_infos[0].followers}}</p>
+                          </div>
+                          <div class="col-6 text-left">
+                            <p class="badge badge-pill badge-secondary" style="font-size: 17px;">Following: 10000</p>
+                          </div>
+                        </div>
+                      </li>
+                      <li class="list-group-item text-center">
+                        <form class="" action="{{url_for('main.following')}}" method="post">
+                          <button type="submit" class="btn btn-secondary" name="report" value="{{twitter_user.id}}">Reports (4)</button>
+                        </form>
+                      </li>
+                      <li class="list-group-item text-center">
+                        <form class="" action="{{url_for('main.following')}}" method="post">
+                          <button type="submit" class="btn btn-danger" name="unfollow" value="{{twitter_user.id}}">Unfollow</button>
+                        </form>
+                      </li>
+                    </ul>
+                </div>
+                {% endfor %}             
+            </div>
+        </div>
+    {% else %}
+        <h1 class="title">You are not following anyone</h1>
+    {% endif %}
+
+{% endblock %}
